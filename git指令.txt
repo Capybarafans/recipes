@@ -1,0 +1,13 @@
+$ git init    初始化
+$ git status  顯示資料表
+$ git add .   加入資料表
+$ git status  確認加入資料表
+$ git commit -m"hello"
+$ git remote add origin https://github.com/Capybarafans/recipes.git
+$ git remote
+$ git push -u origin master
+$ git log
+
+
+
+
